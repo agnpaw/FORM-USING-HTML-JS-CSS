@@ -4,7 +4,7 @@ Prosty projekt formularza stworzony w **czystym JavaScript, HTML i CSS**, bez u�
 
 ##  Demo
 
-👉 [Zobacz online](https://agnpaw.github.io/form/)
+👉 [Zobacz online](https://agnpaw.github.io/FORM-USING-HTML-JS-CSS/)
 
 ##  Zrzut ekranu
 
