@@ -28,5 +28,5 @@ Prosty projekt formularza stworzony w **czystym JavaScript, HTML i CSS**, bez u≈
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone https://github.com/agnpaw/form.git
+   git clone https://github.com/agnpaw/FORM-USING-HTML-JS-CSS.git
    cd form
